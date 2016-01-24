@@ -1,8 +1,7 @@
-# WolfAPI-Beta
-WolfAPI-Beta Plugin
+# UUIDBan
+UUIDBan Plugin
 
-Current Full Release Version (Not the Beta): ![Version](https://img.shields.io/github/release/WolfLeader116/WolfAPI.svg?style=flat-square)
+Current Full Release Version: ![Version](https://img.shields.io/github/release/WolfLeader116/UUIDBan.svg?style=flat-square)
 
 ## Download
-Download a pre-built and ready-to-use jar file of this plugin from https://drone.io/github.com/WolfLeader116/WolfAPI/files/target/WolfAPI-Beta.jar
-(Link is currently broken!)
+Download a pre-built and ready-to-use jar file of this plugin from [Download](https://drone.io/github.com/WolfLeader116/UUIDBan/files/target/UUIDBan.jar)
