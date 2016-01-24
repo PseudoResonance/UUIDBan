@@ -1,0 +1,20 @@
+name: WolfAPI
+author: WolfLeader116
+main: io.github.wolfleader116.wolfapi.WolfAPI
+version: 3.0-Beta-1
+description: An API for Easy Access to Resources and Unification Across Plugins
+commands:
+  uuidban:
+    description: Ban a player via UUID
+  uuidunban:
+    description: Unban a player via UUID
+permissions:
+  uuidban.ban:
+    description: Allows the player to uuid ban players
+  uuidban.unban:
+    description: Allows the player to uuid unban players
+  uuidban.*:
+    description: Allows the player complete access to all UUIDBan permissions
+    children:
+      uuidban.ban: true
+      uuidban.unban: true
